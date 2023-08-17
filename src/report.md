@@ -7,7 +7,7 @@
 - Узнайте версию Ubuntu, выполнив команду
 `cat /etc/issue.`
 
-![версия Ubuntu](../images/Part 1.png "версия Ubuntu")
+![Ubuntu](images/Part 1.png "версия Ubuntu")
 
 ## Part 2. Создание пользователя
 
